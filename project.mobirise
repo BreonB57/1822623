@@ -73,7 +73,7 @@
             "showText": false,
             "showButtons": false,
             "inverse": true,
-            "imageSize": "40",
+            "imageSize": "24",
             "paddingTop": 0,
             "paddingBottom": 0,
             "bgImageRadio": false,
@@ -110,7 +110,7 @@
               "size": 0
             }
           },
-          "title": "<i><b>S</b>iobhan<br>&nbsp; &nbsp; &nbsp;Na <b>S</b>pag</i>",
+          "title": "<span style=\"font-size: 80px;\"><i style=\"font-weight: bold;\">S</i><i>iobhan\n</i></span><div><span style=\"font-size: 80px;\"><i>&nbsp; &nbsp; &nbsp;Na</i><i style=\"font-weight: bold;\"> S</i><i>pag</i></span></div>",
           "text": "<p>Mobirise helps you cut down development time by providing you with a flexible website editor.</p>",
           "alias": "purity/components",
           "_tags": [
@@ -122,7 +122,7 @@
           "_anchor": "msg-box4-2",
           "_styles": {
             ".mbr-section-title I": {
-              "font-size": "60px"
+              "font-size": "80px"
             }
           }
         },
@@ -133,7 +133,7 @@
             "showText": false,
             "showButtons": false,
             "inverse": false,
-            "imageSize": "40",
+            "imageSize": "24",
             "paddingTop": 0,
             "paddingBottom": 0,
             "bgImageRadio": false,
@@ -170,7 +170,7 @@
               "size": 0
             }
           },
-          "title": "<b>D</b>ánta Póca",
+          "title": "<i><b>D</b>ánta Póca</i>",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
@@ -183,6 +183,9 @@
           "_styles": {
             ".mbr-section-title": {
               "font-size": "60px"
+            },
+            ".mbr-section-title I": {
+              "font-size": "46px"
             }
           }
         }

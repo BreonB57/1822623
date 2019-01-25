@@ -2,8 +2,11 @@
   color: #000;
 }
 #msg-box4-2 .mbr-section-title I {
-  font-size: 60px;
+  font-size: 80px;
 }
 #msg-box5-3 .mbr-section-title {
   font-size: 60px;
+}
+#msg-box5-3 .mbr-section-title I {
+  font-size: 46px;
 }
